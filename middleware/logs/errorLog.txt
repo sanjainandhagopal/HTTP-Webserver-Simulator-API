@@ -1,0 +1,12 @@
+14/06/2024	20:13:27	unique id: e50c65f6-dfa2-46fb-98a2-a97c5d8fdc4e	Error: Note allowed by CORS
+14/06/2024	20:13:27	unique id: 9d6bfb8c-db1a-4f1c-8fdc-4528f297be83	Error: Note allowed by CORS
+14/06/2024	20:14:13	unique id: f6d8f109-9a62-429e-a0d2-6d9dd3f37d38	Error: Note allowed by CORS
+14/06/2024	20:14:13	unique id: 38ae08ef-bfd5-4207-aba0-9bd7cb60ec45	Error: Note allowed by CORS
+14/06/2024	20:53:48	unique id: 30f1b9e1-436d-4d82-9085-fc156d39270f	Error: ENOENT: no such file or directory, stat 'F:\Fullstack\Express\routes\views\index.html'
+14/06/2024	23:54:24	unique id: 8a2ba911-f42a-4903-af8f-d2bafcc4844b	TypeError: data.setEmployees is not a function
+14/06/2024	23:58:55	unique id: 686785f5-7597-46dc-8c98-8a7296dfb8df	TypeError: data.setEmployees is not a function
+15/06/2024	00:04:02	unique id: 83df99e7-3826-4a82-8876-e03ca0613bd5	TypeError: data.setEmployees is not a function
+15/06/2024	00:04:26	unique id: 5008493d-f230-4e60-a1ef-833f70e9b4a4	TypeError: data.setEmployees is not a function
+15/06/2024	00:09:36	unique id: 694ad91a-4a9b-45da-8245-76203ec1cc0c	TypeError: data.setEmployees is not a function
+15/06/2024	00:13:54	unique id: 9ce873b2-305d-479c-a115-e1d7b1eea588	TypeError: data.setEmployees is not a function
+15/06/2024	00:17:39	unique id: 3464caaa-c024-48b2-9fb3-ef8802773d55	TypeError: data.setEmployees is not a function
